@@ -61,7 +61,7 @@
     <!-- Contato e Localização -->
     <section id="contato">
         <h2>Contato</h2>
-        <p>Endereço: Rua Exemplo, Campina Grande - PB</p>
+        <p>Endere&ccedil;o: Rua Exemplo, Campina Grande - PB</p>
         <p>Telefone: (83) 9999-9999</p>
         <form>
             <input type="text" placeholder="Seu Nome">
